@@ -1,0 +1,13 @@
+.ltr-btn > div {
+    cursor: pointer !important;
+    color: #00BCD4 !important;
+    -webkit-transition: 0.3s ease !important;
+    transition: 0.3s ease !important;
+}
+
+
+.ltr-btn.on > div {
+    color: #E91E63 !important;
+}
+
+
